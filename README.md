@@ -7,4 +7,7 @@ git config --global http.sslVerify "false"
 
 
 大成功！！！通过各种checkout pull push啥的终于可以直接上传到main了！
+
 而且！！居然不用联网都可以上传！！omg太厉害了
+
+好吧还是要网…………
