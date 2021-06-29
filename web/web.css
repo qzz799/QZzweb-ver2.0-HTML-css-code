@@ -1,0 +1,111 @@
+/* CSS Document */
+
+/*网页背景*/
+body{
+	background-image:url(background.jpg);
+	background-repeat:repeat;
+}
+
+/*整体框架*/
+.all{
+	width:1000px;
+	/*高度在这里！记得调！！*/
+	height:1680px;
+	/*高度在这里！记得调！！*/
+	margin:5px auto 20px auto;
+	padding:0px;
+	background-color:#FFFFFF;
+	border-style:ridge;
+    border-color:#000000;
+	border-width:thick;
+}
+
+/*标题*/
+.head{
+	width:1000px;
+	height:150px;
+	text-align:center;
+	font-size:72px;
+	color:#FF0000;
+	margin:0px 0px 5px 0px;
+	float:left;
+}
+.tucao{
+	width:1000px;
+	height:75px;
+	text-align:center;
+	font-size:24px;
+	float:left;
+}
+
+/*功能区*/
+.blanknow{
+	border-top-style:solid;
+	border-top-width:thick;
+	border-top-color:#000000;
+	width:1000px;
+	height:100px;
+	margin:30px 0px 0px 0px;
+	float:left;
+	text-align:center;
+}
+.pic{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:1000px;
+	height:130px;
+	float:left;
+}
+.pic ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+.pic li{
+	float:left;
+	margin:5px 2px 5px 4px;
+	border-style:solid;
+	border-width:2px;
+}
+.continued{
+	width:1000px;
+	height:130px;
+	float:left;
+	text-align:center;
+}
+
+/*还没确定什么区*/
+.work{
+	float:left;
+	margin:10px 0px 0px 0px;
+	width:1000px;
+	height:400px;
+	text-align:center;
+}
+
+/*网页公告*/
+.announcement{
+	border-top-style:solid;
+	border-top-width:thick;
+	border-top-color:#000000;
+	float:left;
+	width:1000px;
+	height:auto;
+}
+#announcementinheadparagraph{
+	text-align:center;
+	color:#FF0000;
+	font-size:24px;
+}
+#thisidisfortheupdatediarytitle{
+	font-size:18px;
+	margin-left:5px;
+}
+#thisidisforshowingthewebsitever{
+	text-align:center;
+	color:#666666;
+	font-size:8px;
+}
+.beianhao{
+	text-align: center;
+}
